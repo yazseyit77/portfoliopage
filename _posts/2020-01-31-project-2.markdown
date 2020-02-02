@@ -1,0 +1,14 @@
+---
+title: Risto
+subtitle: React.js, Redux.js vs. Rails API
+layout: default
+modal-id: 5
+date: 2020-01-31
+src: "https://www.youtube.com/embed/e88Qy8yO4UE"
+github: "https://github.com/yazseyit77/risto"
+thumbnail: risto-thumb.png
+alt: alt-thumb.png
+project-date: January 29th
+category: Full Stack Web Development
+description: Risto is short for an Italian word Ristorante. My Risto application is a Single Page Application for restaurant search and favoritize the restaurant that you like. The app sends a fetch() request to Zomato API through my back-end Rails API, to search for restaurants. The favoritized restaurants only display after a user is signed in. React Router is used to navigate the pages in client side. Redux store is used to handle the states, and Redux Thunk is used to fetch back-end data.
+---

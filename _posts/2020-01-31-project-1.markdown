@@ -1,0 +1,14 @@
+---
+title: GitHub Portfolio
+subtitle: Personal Portfolio made by Jekyll
+layout: default
+modal-id: 6
+date: 2020-01-31
+src: "http://127.0.0.1:4000/agency-jekyll-theme//#portfolioModal6"
+github: "https://github.com/yazseyit77/risto"
+thumbnail: index.png
+alt: alt-thumb.png
+project-date: January 31st
+category: Full Stack Web Development
+description: Started learning a Ruby Gem called Jekyll. Found this source really easy to make a Static Web app that I can store on my GitHub Repository. The theme I used for this Website is an open source theme called "agency-jekyll-theme".
+---

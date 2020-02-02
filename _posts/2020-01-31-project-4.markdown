@@ -1,0 +1,14 @@
+---
+title: WebDev
+subtitle: Ruby on Rails vs. ActiveRecord
+layout: default
+modal-id: 3
+date: 2020-01-31
+src: "https://www.youtube.com/embed/CM5-5Lsq5Eg"
+github: "https://github.com/yazseyit77/webdev"
+thumbnail: webdev-thumb.png
+alt: alt-thumb.png
+project-date: November 18th
+category: Full Stack Web Development
+description: Web application for Developers to track the clients and their project orders. Build by pure Ruby on Rails Framework, Front-End and Back-End. ActiveRecord Validations, Query methods and Macros are used. User signup, login/logout is maintained with Devise gem, login from some other service (GitHub ) is maintained with Omniauth. Neat DRY code, with separation of concerns, nested resource with the appropriate RESTful URLs.
+---

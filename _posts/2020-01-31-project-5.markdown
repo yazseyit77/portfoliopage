@@ -1,0 +1,14 @@
+---
+title: Sinatra Dental Office
+subtitle: Web Application by Sinatra
+layout: default
+modal-id: 2
+date: 2020-01-31
+src: "https://www.youtube.com/embed/Nh2oDLltkas"
+github: "https://github.com/yazseyit77/sinatra_dentaloffice"
+thumbnail: sinatra-thumb.png
+alt: alt-thumb.png
+project-date: October 16th
+category: Full Stack Web Development
+description: Web application built for Dentists to keep track of their patients. Pure Sinatra, a Ruby Framework is used. Built with MVC structure, DRY code, validations of user login attribute (username or email). User can create, update and delete his own patient information.
+---

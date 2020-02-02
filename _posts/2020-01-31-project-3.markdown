@@ -1,0 +1,14 @@
+---
+title: Movies Collection
+subtitle: Javascript front-end vs Rails API
+layout: default
+modal-id: 4
+date: 2020-01-31
+src: "https://www.youtube.com/embed/7IoTzAOkSkg"
+github: "https://github.com/yazseyit77/jsMoviesCollection"
+thumbnail: js-thumb.png
+alt: alt-thumb.png
+project-date: December 23rd
+category: Full Stack Web Development
+description: Web application for movie collection and movie compare for people to decide which movies they will like more. JavaScript for front-end, Rails for backend API, HTML and CSS with Bootstrap and Bulma for design is used. Server is handled asynchronously with fetch(), JSON as communication format. For movie compare, AXIOS framework is used to fetch data from third party API. User is able to create & delete movies of his favorite.
+---

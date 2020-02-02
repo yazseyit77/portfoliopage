@@ -1,0 +1,14 @@
+---
+title: CLI Project
+subtitle: Linux App by Ruby
+layout: default
+modal-id: 1
+date: 2020-01-31
+src: "https://www.youtube.com/embed/9_L4VfV0WIg"
+github: "https://github.com/yazseyit77/my_cli_project"
+thumbnail: nokogiri-thumb.png
+alt: alt-thumb.png
+project-date: September 16th
+category: Web Development
+description: Welcome to my gem! This gem is a reflection of an online shopping application. I have a short list of products that I display for sale. The list of products are scraped from an actual sales website.
+---
