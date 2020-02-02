@@ -8,14 +8,18 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com
-  - title: facebook
-    url: http://facebook.com
+  - title: linkedin
+    url: https://www.linkedin.com/in/yazgeldi-seyidov/
+  - title: medium
+    url: https://medium.com/me/stories/public
+  - title: github
+    url: http://github.com/yazseyit77
+  - title: pencil-square
+    url: https://yazseyit77.github.io/
+  - title: google
+    url: https://docs.google.com/document/d/1cQ9Pk_Q3_FI0rBM1Wf641v-8O30xHdS2QReVQVRcwek/edit
   - title: stack-overflow
     url: http://stackoverflow.com
-  - title: github
-    url: http://github.com
 
 # Postal address (add as many lines as necessary)
 address:
